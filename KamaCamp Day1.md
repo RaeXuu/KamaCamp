@@ -14,7 +14,7 @@
 
 因为数组在内存空间的地址是连续的，所以我们在删除或者增添元素的时候，就难免要移动其他元素的地址。
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250709180136463.png" alt="image-20250709180136463" style="zoom:67%;" />
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250709180136463.png" alt="image-20250709180136463" />
 
 C++中，要注意vector 和 array的区别，vector的底层实现是array，严格来讲vector是容器，不是数组。
 
