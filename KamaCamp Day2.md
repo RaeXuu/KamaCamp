@@ -74,6 +74,12 @@ public:
 
 - 空间复杂度：O(1)
 
+> [!WARNING]
+>
+> <img src="./assets/image-20250710231611126.png" alt="image-20250710231611126" style="zoom:50%;" />
+>
+> <img src="./assets/image-20250710231651579.png" alt="image-20250710231651579" style="zoom:50%;" />
+
 > [!NOTE]
 >
 > **for循环和while循环：**
@@ -169,6 +175,12 @@ public:
 
 - 时间复杂度 O(n^2): 模拟遍历二维矩阵的时间
 - 空间复杂度 O(1）
+
+> [!IMPORTANT]
+>
+> <img src="./assets/image-20250710231738496.png" alt="image-20250710231738496" style="zoom:50%;" />
+>
+> offset和loop应该存在线性关系（？）
 
 > [!CAUTION]
 >
